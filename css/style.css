@@ -84,3 +84,8 @@ footer{
     max-width: 300px;
     max-height: 300px;
 }
+.vencedores{
+    color: white;
+    align-items: center;
+    padding-left: 380px;
+}
